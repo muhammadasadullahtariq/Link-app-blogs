@@ -1,6 +1,6 @@
 ---
 title: "Generate Short Links Like a Pro with Link App: Your Key to Digital Success"
-coverImage: "https://qiy.blob.core.windows.net/blogs/shortLinks.svg"
+coverImage: "https://qiy.blob.core.windows.net/blogs/shortLinks.png"
 ---
 
 # Welcome to the World of Short Links!
