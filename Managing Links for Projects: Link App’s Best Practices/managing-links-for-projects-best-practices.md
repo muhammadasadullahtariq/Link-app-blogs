@@ -32,7 +32,7 @@ Breaking down project links by phases—such as planning, execution, and review�
 
 Saving project-specific links is easy with **Link App**. You can save a link from any device with just a few clicks, tagging it as needed. By consistently saving links to a central location, you ensure that all project stakeholders can access essential resources.
 
-[Organized](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJmYXJ4OWNpdmhlbXN0Y2Y5NzhwdmtuMmRsMmM4d3R4Y2x2bmlwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l2JInZhQ501ASOEs8/giphy.gif)
+![Organized](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnJmYXJ4OWNpdmhlbXN0Y2Y5NzhwdmtuMmRsMmM4d3R4Y2x2bmlwciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l2JInZhQ501ASOEs8/giphy.gif)
 
 ### Creating Custom Folders for Each Project
 
@@ -63,7 +63,7 @@ One of the greatest advantages of **Link App** is its cross-device functionality
 
 Sharing links within a team is crucial for collaboration. With **Link App**, you can create shared folders and add team members. This ensures that everyone has access to the right resources, no matter where they are.
 
-[Working Togatther](https://media.giphy.com/media/EOpZ7XsVfTN2E/giphy.gif?cid=790b7611utlxyax62mdl98ht4noi4ml4w8b60k0fjodm3f4f&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Working Togatther](https://media.giphy.com/media/EOpZ7XsVfTN2E/giphy.gif?cid=790b7611utlxyax62mdl98ht4noi4ml4w8b60k0fjodm3f4f&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### How Link App Helps Avoid Duplicate Links
 
@@ -84,7 +84,7 @@ As projects progress, some links become less relevant. **Link App** enables you 
 
 For seamless workflow, **Link App** integrates well with tools like Trello and Asana. Linking your project management tools with Link App helps keep all resources unified in one digital space.
 
-[Tools](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRxZ3c2bmtqMDJ2NjltaXVicmNueGV1NjB0MXcxM3hkZHJ3dTVkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YAlhwn67KT76E/giphy.gif)
+![Tools](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnRxZ3c2bmtqMDJ2NjltaXVicmNueGV1NjB0MXcxM3hkZHJ3dTVkZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YAlhwn67KT76E/giphy.gif)
 
 ### Using Short Links for Streamlined Project Sharing
 
@@ -105,7 +105,7 @@ Research is crucial for many projects. Use **Link App** to save background resea
 
 With **Link App’s analytics**, track how often links are accessed and gather insights into link performance. This feature is especially useful for marketing teams and project managers who need to evaluate the success of shared resources.
 
-[Analytics](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlzZ3poa25panN1NGRlbzI4YXF2Z2d6YzJ1eDk1Y3V1dXpjbWpueSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IPxtpkyoyNYqeXvnfh/giphy.gif)
+![Analytics](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHlzZ3poa25panN1NGRlbzI4YXF2Z2d6YzJ1eDk1Y3V1dXpjbWpueSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/IPxtpkyoyNYqeXvnfh/giphy.gif)
 
 ### Keeping Links Up-to-Date Across All Project Stages
 
@@ -137,7 +137,7 @@ If you’re new to **Link App**, getting started is easy. Follow these steps:
 
 Link App’s search function is fast and precise. Whether you’re looking for a specific client link or a project update, find it instantly with keyword search.
 
-[Searchig](https://media.giphy.com/media/w8ZKmiIrOC0rTVlOmx/giphy.gif?cid=790b7611ad0atau25nqt6j19vx57zlw3bz8hk2zw2pk54cgl&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Searchig](https://media.giphy.com/media/w8ZKmiIrOC0rTVlOmx/giphy.gif?cid=790b7611ad0atau25nqt6j19vx57zlw3bz8hk2zw2pk54cgl&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### Managing Team Permissions and Shared Links
 
@@ -175,7 +175,7 @@ With Link App’s mobile, web, and browser extension versions, you can save and 
 
 With **Link App**, managing project links becomes a streamlined experience. From saving links to organizing and sharing resources, **Link App** boosts project efficiency and enhances collaboration.
 
-[Productivity](https://media.giphy.com/media/pT4pmRFs15Yg8/giphy.gif?cid=790b7611kndbiig6jl3thbbpk5yc5mikznv1c4tbcdtkghdg&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Productivity](https://media.giphy.com/media/pT4pmRFs15Yg8/giphy.gif?cid=790b7611kndbiig6jl3thbbpk5yc5mikznv1c4tbcdtkghdg&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ---
 
 ### FAQ

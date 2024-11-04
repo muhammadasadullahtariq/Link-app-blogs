@@ -10,7 +10,7 @@ In a world where every second counts, digital professionals rely on tools that h
 
 In an era where digital resources, articles, videos, and links flood our everyday lives, the need for a streamlined, effective way to manage them is clear. **Link App** allows professionals to save and organize links with ease, helping them avoid wasted time searching for URLs. By centralizing your link collection, you can locate important information within seconds—right when you need it most.
 
-[Effortlessly](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjV2am0yeTVtc3Zod3B0dDc4djQ0NXAyZHN1bjZxNXdxODBrYmRsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dUfOHdO47gV6YdTGgn/giphy.gif)
+![Effortlessly](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjV2am0yeTVtc3Zod3B0dDc4djQ0NXAyZHN1bjZxNXdxODBrYmRsMCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dUfOHdO47gV6YdTGgn/giphy.gif)
 
 ### Top Benefits of Link App for Digital Workspaces
 
@@ -24,7 +24,7 @@ In an era where digital resources, articles, videos, and links flood our everyda
 
 Managing links across projects and devices can be chaotic without a central organization tool. **Link App** helps by providing a structured, easy-to-navigate layout where you can organize links, create categories, and tag them for better access.
 
-[Organize Links](https://media.giphy.com/media/9Y6ZRYDjHbY6w8LA9C/giphy.gif?cid=790b7611ipvmxiyu0d5wxy6ueirk20j2vi56cimwybliwwl9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Organize Links](https://media.giphy.com/media/9Y6ZRYDjHbY6w8LA9C/giphy.gif?cid=790b7611ipvmxiyu0d5wxy6ueirk20j2vi56cimwybliwwl9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### Why Digital Professionals Choose Link App
 
@@ -126,7 +126,7 @@ In the digital world, productivity tools are critical, and **Link App** is a per
 
 **Link App** supports digital professionals by offering a structured, time-saving way to save and access links, ultimately maximizing productivity.
 
-[Task List](https://media.giphy.com/media/l2Je9JGAXCWnSUwWQ/giphy.gif?cid=790b7611ipvmxiyu0d5wxy6ueirk20j2vi56cimwybliwwl9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Task List](https://media.giphy.com/media/l2Je9JGAXCWnSUwWQ/giphy.gif?cid=790b7611ipvmxiyu0d5wxy6ueirk20j2vi56cimwybliwwl9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### Top Link Organization Tips with Link App
 
@@ -172,4 +172,4 @@ A: Yes, **Link App** is designed with a simple, user-friendly interface ideal fo
 **Q: Can I categorize my links in Link App?**  
 A: Yes, **Link App** supports folder creation and tags for efficient link categorization.
 
-[Completed](https://media.giphy.com/media/YjRPVQo5kEh1imlNnF/giphy.gif?cid=790b7611vpkfksj4nfifnmwbdi6tjmq5j9xi20z7ndv0a1xr&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![Completed](https://media.giphy.com/media/YjRPVQo5kEh1imlNnF/giphy.gif?cid=790b7611vpkfksj4nfifnmwbdi6tjmq5j9xi20z7ndv0a1xr&ep=v1_gifs_search&rid=giphy.gif&ct=g)
